@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/devusb/demo-app
-  newTag: a4707554ca5640ddc0ccdb72a0af14315efe0e32
+  newTag: 0e97cdb6c9e41868266d7217989acf723080a685
