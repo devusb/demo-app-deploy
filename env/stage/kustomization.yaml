@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/devusb/demo-app
+  newTag: 0e97cdb6c9e41868266d7217989acf723080a685
