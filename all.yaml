@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/devusb/demo-app:latest
+      - image: ghcr.io/devusb/demo-app:a4707554ca5640ddc0ccdb72a0af14315efe0e32
         name: demo-app
         ports:
         - containerPort: 8080
